@@ -39,7 +39,7 @@ module NetSuite
     autoload :GetList,          'netsuite/actions/get_list'
     autoload :GetSelectValue,   'netsuite/actions/get_select_value'
     autoload :Initialize,       'netsuite/actions/initialize'
-    autoload :mapSSO,           'netsuite/actions/map_sso'
+#    autoload :mapSSO,           'netsuite/actions/map_sso'
     autoload :Update,           'netsuite/actions/update'
     autoload :Search,           'netsuite/actions/search'
     autoload :SearchMoreWithId, 'netsuite/actions/search_more_with_id'
